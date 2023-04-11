@@ -262,7 +262,7 @@ h6, .h6 {
     ----------------------------------
 */
 a {
-    color:#28ca00;
+    color:#194185;
 }
 
 a:focus, a:active, a:hover {
@@ -2800,7 +2800,7 @@ nav .cart-wrapper.open {
 }
 
 .product .info .content h3:after {
-    background: #fbb700;
+    background:#2202db;
     content: "";
     width: 50px;
     height: 1px;
