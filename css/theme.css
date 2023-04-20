@@ -5352,7 +5352,7 @@ nav .cart-wrapper.open {
 .history .history-image {
     background-position: center;
     background-size: cover;
-    min-height: 300px;
+    min-height: 100px;
 }
 
 .history .row-block {
